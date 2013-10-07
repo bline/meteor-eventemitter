@@ -1,0 +1,3 @@
+[submodule "EventEmitter"]
+	path = EventEmitter
+	url = https://github.com/Wolfy87/EventEmitter
