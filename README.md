@@ -1,2 +1,2 @@
-# Event Emitter package for meteor clinet side
+# Event Emitter package for meteor client side
 
