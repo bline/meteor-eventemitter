@@ -7,6 +7,5 @@ Package.on_use(function (api) {
   api.add_files([
     path.join('EventEmitter', 'EventEmitter.js')
   ], 'client');
-  api.export('EventEmitter');
 });
 
